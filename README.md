@@ -1,4 +1,4 @@
-# Cruso de Brython
+# Curso de Brython
 
 Repositório destinado ao curso de [Brython](https://github.com/brython-dev/brython)
 
